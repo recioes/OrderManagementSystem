@@ -3,7 +3,7 @@
 <p align="center">
 Neste projeto eu construi um pequeno Sistema de Gestão de Pedidos, otimizado para permitir que os usuários insiram e gerenciem detalhes do cliente e do pedido de forma eficiente, com suporte para a inclusão de múltiplos itens por pedido. O sistema é projetado para fornecer um resumo abrangente de cada pedido, contribuindo para uma gestão eficaz.
 
-O projeto foi implementado como uma solução para um desafio apresentado durante um curso de C#. Utilizando a linguagem C# - um pilar fundamental da plataforma .NET da Microsoft -, exploramos e aplicamos conceitos avançados de programação, reforçando nossa proficiência no desenvolvimento orientado a objetos e aprimorando nossa capacidade de criar soluções complexas e eficientes.
+O projeto foi implementado como uma solução para um desafio apresentado durante um curso de C#. Utilizando a linguagem C# - um pilar fundamental da plataforma .NET da Microsoft -, explorando e aplicando conceitos intermediários de programação.
   
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
